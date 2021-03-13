@@ -1,0 +1,48 @@
+
+/*--css file for Launchcode Assignment#4--
+author: Claire Patterson
+Course date: Launchcode LC101 Jan-July 2021
+*/
+
+body { 
+	font: helvecta; sans-serif;
+	font-size: 24;
+	line-height: 1.88889;
+	color: #213b06; 
+	margin: 80; 
+	padding-right: 30px;
+	padding-left: 80px;
+	}
+	.intro {
+		background-color: rgb(255, 136, 0);
+		padding-right: 30px;
+		padding-left: 80px;
+	  }
+	 
+	 #herbintro{
+		color: black;
+		padding-right: 30px;
+		padding-left: 80px;
+	 }
+	.herb {
+		padding-right: 30px;
+  		padding-left: 80px;
+		}
+	.herb1 {
+		border: 1px solid black;
+		background-color: burlywood;
+		padding-top: 50px;
+		padding-bottom: 50px;
+		}
+	article {
+		border: 1px solid black;
+		background-color: rgb(113, 228, 37);
+		padding-top: 50px;
+		padding-bottom: 50px;
+		padding-right: 30px;
+  		padding-left: 80px;
+		}
+h1,h2,h3 {
+	color: black;
+	text-align: center;
+}
